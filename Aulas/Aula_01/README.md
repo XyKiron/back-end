@@ -3,7 +3,7 @@
 1. Clonar um repositório
 
 ```shell
-git clone https://github.com/usuario/repositorio
+git clone https://github.com/usuario
 ```
 
 2. Configurar nome e email
