@@ -1,3 +1,24 @@
 {
-    
+  "PRODUTOS": [
+    {
+      "nome": "banana nanica",
+      "preco": 30,
+      "id": "1"
+    },
+    {
+      "id": 2,
+      "nome": "abacaxi",
+      "preco": 10
+    },
+    {
+      "id": 3,
+      "nome": "carne",
+      "preco": 18
+    },
+    {
+      "id": "b94b",
+      "nome": "uva",
+      "preco": 30
+    }
+  ]
 }
