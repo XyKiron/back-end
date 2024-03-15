@@ -6,6 +6,8 @@ const routerProdutos = require('./router')
 // Crie uma aplicação Express
 const app = express();
 
+app.use(express.json())
+
 // Use o roteador de produtos
 app.use(routerProdutos);
 
